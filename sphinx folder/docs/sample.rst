@@ -1,6 +1,10 @@
 My Project
 ==========
 
+
+See :download:`My writing sample <samples/Clark_Miller-01-UX_Writing_Assignment.pdf>`
+
+
 Heading 2
 ---------
 

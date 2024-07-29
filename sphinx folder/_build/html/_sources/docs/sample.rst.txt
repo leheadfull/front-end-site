@@ -1,6 +1,10 @@
 My Project
 ==========
 
+
+See :download:`My writing sample <samples/Clark_Miller-01-UX_Writing_Assignment.pdf>`
+
+
 Heading 2
 ---------
 
@@ -13,7 +17,6 @@ this is **bold** text
 
 this is *italicized* text
 
-this is ***bold and italicized*** text
 
 
 1. This is step one
