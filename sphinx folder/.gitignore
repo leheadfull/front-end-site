@@ -1,2 +1,3 @@
 # ignore build files
 _build
+sphinx folder/_build
