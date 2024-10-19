@@ -2,8 +2,8 @@ Dream Destination Project
 =========================
 
 
-See :download:`My writing sample <samples/Clark_Miller-01-UX_Writing_Assignment.pdf>`
-
+See :download:`Dream Destination before <samples/anime team project>`
+See :download:`Dream Destination after<>``
 
 Overview
 --------
