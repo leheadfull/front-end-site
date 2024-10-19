@@ -7,7 +7,7 @@ Using my fresh skills in HTML/CSS and Bootstrap, I designed a brief project on t
 
 Additionally, provided information on the flora and fauna of the city, historical sites, and what I would do there using some research and ChatGPT to help fill in the content. The task appeared simple as far as getting started but ran into a few issues later on during development.
 
-Audience
+Audienc
 --------
 There was no suggested target audience but I imagine that a reader would want to be captivated by the pictures and learn more about the destination; moreover persuading them to visit there and understand why the city is beautiful.
 
