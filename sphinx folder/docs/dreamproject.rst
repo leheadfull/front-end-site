@@ -1,10 +1,6 @@
 Dream Destination Project
 =========================
 
-
-See :download:`Dream Destination before <samples/anime team project>`
-See :download:`Dream Destination after<>``
-
 Overview
 --------
 Using my fresh skills in HTML/CSS and Bootstrap, I designed a brief project on the location of where my dream vacation would be, Mykonos, Greece.
